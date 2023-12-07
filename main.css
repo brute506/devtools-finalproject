@@ -1,0 +1,33 @@
+.title {
+	font-size: 5rem;
+	font-family: "Smooch", cursive;
+	text-align: center;
+	margin-top: 50px;
+	color: whitesmoke;
+}
+
+/* Home Page Banner Image */
+.alexisLive {
+	margin-top: 50px;
+}
+
+/* Side Projects Title */
+.sideProjects {
+	font-family: "Smooch", cursive;
+	color: whitesmoke;
+}
+
+/* Contact Us Title */
+.contactUs {
+	font-family: "Smooch", cursive;
+	color: whitesmoke;
+}
+
+/* Contact Us Section */
+.formText {
+	color: whitesmoke;
+}
+
+.helpText {
+	color: whitesmoke;
+}
